@@ -28,11 +28,10 @@ You can find me on:
     <img src="https://github.com/limistah/limistah/blob/master/assets/react.svg" width="24px" alt="Ionic">
     <img src="https://github.com/limistah/limistah/blob/master/assets/aws.svg" width="24px" alt="AWS">
     <img src="https://github.com/limistah/limistah/blob/master/assets/googlecloud.svg" width="24px" alt="Google Cloud">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/typescript.svg" width="24px" alt="Angular">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/dot-net.svg" width="24px" alt=".NET Core">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/gitlab.svg" width="24px" alt="GitLab">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/github.svg" width="24px" alt="Github">
     <img src="https://github.com/limistah/limistah/blob/master/assets/fastify.svg" width="24px" alt="Fastify">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/capacitor.svg" width="24px" alt="Capacitor">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
     <img src="https://github.com/limistah/limistah/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
     <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
   </li>
@@ -55,10 +54,15 @@ You can find me on:
     <img src="https://github.com/limistah/limistah/blob/master/assets/prometheus.svg" width="24px" alt="Prometheus">
   </li>
   <li>
-    👯 I'm looking to collaborate on <a href="https://github.com/limistah/Compriz">Compriz</a>
+    🖊️ I am published at:
+    smashingmagazine.svg
+    <img src="https://github.com/limistah/limistah/blob/master/assets/smashingmagazine.svg" width="24px" alt="SmashingMagazine"> <a href="https://aleemisiaka.com">📝</a>
   </li>
   <li>
-    🤝 I'm looking for help with <a href="https://github.com/all-contributors/ac-learn">`ac-learn`</a> and <a href="https://github.com/limistah/json-fixer">`json-fixer`</a>.
+    👯 I'm looking to collaborate on <a href="https://github.com/objectspread">ObjectSpread</a>
+  </li>
+  <li>
+    🤝 I'm looking for help with <a href="https://github.com/limistah/react-here-map">`react-here-map`</a> and <a href="https://github.com/limistah/react-video-trimmer">`react-video-trimmer`</a>.
   </li>
   <li>
     💬 Ask me about anything, I'd love to help.
@@ -75,7 +79,7 @@ You can find me on:
 
 #### Frontend
 
-- <img src="https://github.com/limistah/limistah/blob/master/assets/gridsome.svg" width="24px" alt="Gridsome"> <img src="https://github.com/limistah/limistah/blob/master/assets/eract.svg" width="24px" alt="ReactJS"> <img src="https://github.com/limistah/limistah/blob/master/assets/vue-dot-js.svg" width="24px" alt="Vue"> <img src="https://github.com/limistah/limistah/blob/master/assets/sass.svg" width="24px" alt="SCSS">
+- <img src="https://github.com/limistah/limistah/blob/master/assets/gridsome.svg" width="24px" alt="Gridsome"> <img src="https://github.com/limistah/limistah/blob/master/assets/react.svg" width="24px" alt="ReactJS"> <img src="https://github.com/limistah/limistah/blob/master/assets/vue-dot-js.svg" width="24px" alt="Vue"> <img src="https://github.com/limistah/limistah/blob/master/assets/sass.svg" width="24px" alt="SCSS">
 - <img src="https://github.com/limistah/limistah/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/limistah/limistah/blob/master/assets/css3.svg" width="24px" alt="CSS3"> <img src="https://github.com/limistah/limistah/blob/master/assets/javascript.svg" width="24px" alt="JS"> <img src="https://github.com/limistah/limistah/blob/master/assets/typescript.svg" width="24px" alt="TS">
 
 ### Backend
@@ -99,11 +103,13 @@ You can find me on:
 - <img src="https://github.com/limistah/limistah/blob/master/assets/git.svg" width="24px" alt="Git"> <img src="https://github.com/limistah/limistah/blob/master/assets/gitkraken.svg" width="24px" alt="GitKraken">
 - <img src="https://github.com/limistah/limistah/blob/master/assets/slack.svg" width="24px" alt="Slack">
 - <img src="https://github.com/limistah/limistah/blob/master/assets/trello.svg" width="24px" alt="Trello"> <img src="https://github.com/limistah/limistah/blob/master/assets/jirasoftware.svg" width="24px" alt="Jira Software"> <img src="https://github.com/limistah/limistah/blob/master/assets/azuredevops.svg" width="24px" alt="Azure Devops">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/npm.svg" width="24px" alt="NPM">
+- <img src="https://github.com/limistah/limistah/blob/master/assets/npm.svg" width="24px" alt="NPM"> <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
 
 ### OS
 
-<img src="https://github.com/limistah/limistah/blob/master/assets/archlinux.svg" width="24px" alt="ArchLinux">
+-<img src="https://github.com/limistah/limistah/blob/master/assets/macos.svg" width="24px" alt="macOS">
+
+- <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=limistah&show_icons=true&hide_border=true&theme=tokyonight)
 
