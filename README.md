@@ -22,22 +22,21 @@ You can find me on:
   <li>Fluent in 🇬🇧.</li>
   <li>
     👨‍💻 I'm getting my hands dirty with:<br>
-    <img src="https://github.com/limistah/limistah/blob/master/assets/quasar.svg" width="24px" alt="Quasar">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/jirasoftware.svg" width="24px" alt="Jira Software">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/confluence.svg" width="24px" alt="Confluence">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/react.svg" width="24px" alt="Ionic">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/node-dot-js.svg" width="24px" alt="NodeJS">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
     <img src="https://github.com/limistah/limistah/blob/master/assets/aws.svg" width="24px" alt="AWS">
     <img src="https://github.com/limistah/limistah/blob/master/assets/googlecloud.svg" width="24px" alt="Google Cloud">
     <img src="https://github.com/limistah/limistah/blob/master/assets/github.svg" width="24px" alt="Github">
     <img src="https://github.com/limistah/limistah/blob/master/assets/fastify.svg" width="24px" alt="Fastify">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
     <img src="https://github.com/limistah/limistah/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/confluence.svg" width="24px" alt="Confluence">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/jirasoftware.svg" width="24px" alt="Jira Software">
   </li>
   <li>
     🌱 I'm currently learning:<br>
-    <img src="https://github.com/limistah/limistah/blob/master/assets/flutter.svg" width="24px" alt="Flutter">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/reactnative.svg" width="24px" alt="Flutter">
     <img src="https://github.com/limistah/limistah/blob/master/assets/clickup.svg" width="24px" alt="ClickUp">
     <img src="https://github.com/limistah/limistah/blob/master/assets/xero.svg" width="24px" alt="Xero">
     <img src="https://github.com/limistah/limistah/blob/master/assets/docker.svg" width="24px" alt="Docker">
@@ -47,14 +46,13 @@ You can find me on:
     🌱 I plan on learning:<br>
     <img src="https://github.com/limistah/limistah/blob/master/assets/ansible.svg" width="24px" alt="Ansible">
     <img src="https://github.com/limistah/limistah/blob/master/assets/rust.svg" width="24px" alt="Rust">
-    <a href="https://github.com/neutralinojs/neutralinojs"><img src="https://github.com/limistah/limistah/blob/master/assets/neutralinojs.svg" width="24px" alt="Neutralino"></a>
     <img src="https://github.com/limistah/limistah/blob/master/assets/julia.svg" width="24px" alt="Julia">
     <img src="https://github.com/limistah/limistah/blob/master/assets/deno.svg" width="24px" alt="Deno">
     <img src="https://github.com/limistah/limistah/blob/master/assets/nativescript.svg" width="24px" alt="NativeScript">
     <img src="https://github.com/limistah/limistah/blob/master/assets/prometheus.svg" width="24px" alt="Prometheus">
   </li>
   <li>
-    🖊️ I am published at:
+    🖊️ I publish at:
     smashingmagazine.svg
     <img src="https://github.com/limistah/limistah/blob/master/assets/smashingmagazine.svg" width="24px" alt="SmashingMagazine"> <a href="https://aleemisiaka.com">📝</a>
   </li>
@@ -79,7 +77,9 @@ You can find me on:
 
 #### Frontend
 
-- <img src="https://github.com/limistah/limistah/blob/master/assets/gridsome.svg" width="24px" alt="Gridsome"> <img src="https://github.com/limistah/limistah/blob/master/assets/react.svg" width="24px" alt="ReactJS"> <img src="https://github.com/limistah/limistah/blob/master/assets/vue-dot-js.svg" width="24px" alt="Vue"> <img src="https://github.com/limistah/limistah/blob/master/assets/sass.svg" width="24px" alt="SCSS">
+- <img src="https://github.com/limistah/limistah/blob/master/assets/react.svg" width="24px" alt="ReactJS"> <img src="https://github.com/limistah/limistah/blob/master/assets/vue-dot-js.svg" width="24px" alt="Vue"> <img src="https://github.com/limistah/limistah/blob/master/assets/gatsby.svg" width="24px" alt="Gatsby"> <img src="https://github.com/limistah/limistah/blob/master/assets/next-dot-js.svg" width="24px" alt="NextJS">
+
+- <img src="https://github.com/limistah/limistah/blob/master/assets/sass.svg" width="24px" alt="SCSS">
 - <img src="https://github.com/limistah/limistah/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/limistah/limistah/blob/master/assets/css3.svg" width="24px" alt="CSS3"> <img src="https://github.com/limistah/limistah/blob/master/assets/javascript.svg" width="24px" alt="JS"> <img src="https://github.com/limistah/limistah/blob/master/assets/typescript.svg" width="24px" alt="TS">
 
 ### Backend
@@ -107,8 +107,7 @@ You can find me on:
 
 ### OS
 
--<img src="https://github.com/limistah/limistah/blob/master/assets/macos.svg" width="24px" alt="macOS">
-
+- <img src="https://github.com/limistah/limistah/blob/master/assets/macos.svg" width="24px" alt="macOS">
 - <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=limistah&show_icons=true&hide_border=true&theme=tokyonight)
