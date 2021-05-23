@@ -1,6 +1,6 @@
 # Aleem Isiaka (Ai)
 
-Hey there, I'm a Nigerian Mech Engr graduate. Fulltime software Engineer andworking on web apps, CLI tools and software.
+Hey there, I'm a Nigerian full time software Engineer and working on web apps, CLI tools and interesting softwares.
 
 You can find me on:
 
