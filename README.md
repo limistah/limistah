@@ -25,6 +25,7 @@ You can find me on:
     <img src="https://github.com/limistah/limistah/blob/master/assets/node-dot-js.svg" width="24px" alt="NodeJS">
     <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
     <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/laravel.svg" width="24px" alt="Laravel">
     <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
     <img src="https://github.com/limistah/limistah/blob/master/assets/aws.svg" width="24px" alt="AWS">
     <img src="https://github.com/limistah/limistah/blob/master/assets/googlecloud.svg" width="24px" alt="Google Cloud">
@@ -88,6 +89,8 @@ You can find me on:
 - <img src="https://github.com/limistah/limistah/blob/master/assets/node-dot-js.svg" width="24px" alt="Node.js"> <img src="https://github.com/limistah/limistah/blob/master/assets/express.svg" width="24px" alt="Express.js">
 
 - <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
+
+- <img src="https://github.com/limistah/limistah/blob/master/assets/laravel.svg" width="24px" alt="Laravel">
 
 -
 
