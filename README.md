@@ -19,7 +19,7 @@ You can find me on:
 ## A bit more about me
 
 <ul>
-  <li>Fluent in 🇬🇧 and 🇫🇷.</li>
+  <li>Fluent in 🇬🇧.</li>
   <li>
     👨‍💻 I'm getting my hands dirty with:<br>
     <img src="https://github.com/limistah/limistah/blob/master/assets/quasar.svg" width="24px" alt="Quasar">
