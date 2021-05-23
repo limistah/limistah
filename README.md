@@ -1,21 +1,20 @@
 # Limistah Berkmann
 
-Hey there, I'm a British MSci+YII CompSci graduate and a freelancer working on web apps, CLI tools and software.
+Hey there, I'm a Nigerian Mech Engr graduate. Fulltime software Engineer andworking on web apps, CLI tools and software.
 
 You can find me on:
 
 <p>
   <a href="https://twitter.com/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/twitter.svg" width="24px" alt="Twitter"></a>
-  <a href="https://www.facebook.com/maxkberkmann"><img src="https://github.com/limistah/limistah/blob/master/assets/facebook.svg" width="24px" alt="Facebook"></a>
+  <a href="https://www.facebook.com/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/facebook.svg" width="24px" alt="Facebook"></a>
   <a href="https://www.instagram.com/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/instagram.svg" width="24px" alt="Instagram"></a>
   <a href="https://dev.to/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/dev-dot-to.svg" width="24px" alt="DEV.to"></a>
-  <a href="https://www.linkedin.com/in/mberkmann"><img src="https://github.com/limistah/limistah/blob/master/assets/linkedin.svg" width="24px" alt="Linkedin"></a>
+  <a href="https://www.linkedin.com/in/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/linkedin.svg" width="24px" alt="Linkedin"></a>
   <a href="https://hashnode.com/@limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/hashnode.svg" width="24px" alt="Hashnode"></a>
   <a href="https://profile.codersrank.io/user/limistah/"><img src="https://github.com/limistah/limistah/blob/master/assets/codersrank.svg" width="24px" alt="CodersRank"></a>
-  <a href="https://www.youtube.com/channel/UCrNauxRnXHOa-VZWwXSJMfA?view_as=subscriber"><img src="https://github.com/limistah/limistah/blob/master/assets/youtube.svg" width="24px" alt="YouTube"></a>
+  <a href="https://www.youtube.com/channel/UCF8KzEYd35lyB8tGluQ6YFg?view_as=subscriber"><img src="https://github.com/limistah/limistah/blob/master/assets/youtube.svg" width="24px" alt="YouTube"></a>
   <a href="https://medium.com/@B.Max"><img src="https://github.com/limistah/limistah/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
 </p>
-<p>and many more like <img src="https://github.com/limistah/limistah/blob/master/assets/devrant.svg" width="24px" alt="DevRant"> and <img src="https://github.com/limistah/limistah/blob/master/assets/discord.svg" width="24px" alt="Discord">.</p>
 
 ## A bit more about me
 
