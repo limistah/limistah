@@ -1,20 +1,16 @@
 {
   "user": {
-    "name": "Maximilian Berkmann",
-    "email": "maxieberkmann@gmail.com",
-    "blog": "https://berkmann18.github.io",
-    "company": "IHS Markit",
-    "location": "England, UK",
-    "hireable": false,
+    "name": "Aleem Isiaka",
+    "email": "aleemisiaka@gmail.com",
+    "blog": "https://aleemisiaka.com",
+    "company": "Josplay",
+    "location": "Lagos, NG",
+    "hireable": true,
     "bio": "I'm a CompSci passionate who loves coding, helping people and mental challenges."
   },
-  "twitter_username": "berkmann18",
+  "twitter_username": "limistah",
   "pinned": [
-    "https://github.com/Berkmann18/Berkmann18.github.io",
-    "https://github.com/Berkmann18/json-fixer",
-    "https://github.com/Berkmann18/nclr",
-    "https://github.com/Berkmann18/SaCoin",
     "https://github.com/all-contributors/all-contributors-cli",
-    "https://github.com/all-contributors/all-contributors",
+    "https://github.com/all-contributors/all-contributors"
   ]
 }
