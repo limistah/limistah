@@ -53,7 +53,6 @@ You can find me on:
   </li>
   <li>
     🖊️ I publish at:
-    smashingmagazine.svg
     <img src="https://github.com/limistah/limistah/blob/master/assets/smashingmagazine.svg" width="24px" alt="SmashingMagazine"> <a href="https://aleemisiaka.com">📝</a>
   </li>
   <li>
