@@ -1,4 +1,4 @@
-# Limistah Berkmann
+# Aleem Isiaka (Ai)
 
 Hey there, I'm a Nigerian Mech Engr graduate. Fulltime software Engineer andworking on web apps, CLI tools and software.
 
