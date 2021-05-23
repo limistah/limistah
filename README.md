@@ -77,10 +77,12 @@ You can find me on:
 
 #### Frontend
 
+- <img src="https://github.com/limistah/limistah/blob/master/assets/javascript.svg" width="24px" alt="JS"> <img src="https://github.com/limistah/limistah/blob/master/assets/typescript.svg" width="24px" alt="TS">
+
 - <img src="https://github.com/limistah/limistah/blob/master/assets/react.svg" width="24px" alt="ReactJS"> <img src="https://github.com/limistah/limistah/blob/master/assets/vue-dot-js.svg" width="24px" alt="Vue"> <img src="https://github.com/limistah/limistah/blob/master/assets/gatsby.svg" width="24px" alt="Gatsby"> <img src="https://github.com/limistah/limistah/blob/master/assets/next-dot-js.svg" width="24px" alt="NextJS">
 
 - <img src="https://github.com/limistah/limistah/blob/master/assets/sass.svg" width="24px" alt="SCSS">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/limistah/limistah/blob/master/assets/css3.svg" width="24px" alt="CSS3"> <img src="https://github.com/limistah/limistah/blob/master/assets/javascript.svg" width="24px" alt="JS"> <img src="https://github.com/limistah/limistah/blob/master/assets/typescript.svg" width="24px" alt="TS">
+- <img src="https://github.com/limistah/limistah/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/limistah/limistah/blob/master/assets/css3.svg" width="24px" alt="CSS3">
 
 ### Backend
 
