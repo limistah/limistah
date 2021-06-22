@@ -1,6 +1,6 @@
 # Aleem Isiaka (Ai)
 
-Hey there, I'm a Nigerian full time software Engineer and working on web apps, CLI tools and interesting softwares.
+Hey there, I'm a Nigerian full time software Engineer and with interests in web/mobile apps, CLI tools and Cloud infrastructures.
 
 You can find me on:
 
