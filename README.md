@@ -1,4 +1,4 @@
-# Aleem Isiaka (Ai)
+# Aleem Isiaka (AI)
 
 Hey there, I'm a Nigerian full time software Engineer and with interests in web/mobile apps, CLI tools and Cloud infrastructures.
 
