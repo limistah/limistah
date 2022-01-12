@@ -1,3 +1,4 @@
+
 # Aleem Isiaka (AI)
 
 Hey there, I'm a Nigerian full time software Engineer and with interests in web/mobile apps, CLI tools and Cloud infrastructures.
@@ -25,21 +26,17 @@ You can find me on:
     <img src="https://github.com/limistah/limistah/blob/master/assets/node-dot-js.svg" width="24px" alt="NodeJS">
     <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
     <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/laravel.svg" width="24px" alt="Laravel">
     <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
     <img src="https://github.com/limistah/limistah/blob/master/assets/aws.svg" width="24px" alt="AWS">
     <img src="https://github.com/limistah/limistah/blob/master/assets/googlecloud.svg" width="24px" alt="Google Cloud">
     <img src="https://github.com/limistah/limistah/blob/master/assets/github.svg" width="24px" alt="Github">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/fastify.svg" width="24px" alt="Fastify">
     <img src="https://github.com/limistah/limistah/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
     <img src="https://github.com/limistah/limistah/blob/master/assets/confluence.svg" width="24px" alt="Confluence">
     <img src="https://github.com/limistah/limistah/blob/master/assets/jirasoftware.svg" width="24px" alt="Jira Software">
   </li>
   <li>
     🌱 I'm currently learning:<br>
-    <img src="https://github.com/limistah/limistah/blob/master/assets/reactnative.svg" width="24px" alt="Flutter">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/clickup.svg" width="24px" alt="ClickUp">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/xero.svg" width="24px" alt="Xero">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
     <img src="https://github.com/limistah/limistah/blob/master/assets/docker.svg" width="24px" alt="Docker">
     <img src="https://github.com/limistah/limistah/blob/master/assets/kubernetes.svg" width="24px" alt="K8s">
   </li>
@@ -48,8 +45,6 @@ You can find me on:
     <img src="https://github.com/limistah/limistah/blob/master/assets/ansible.svg" width="24px" alt="Ansible">
     <img src="https://github.com/limistah/limistah/blob/master/assets/rust.svg" width="24px" alt="Rust">
     <img src="https://github.com/limistah/limistah/blob/master/assets/julia.svg" width="24px" alt="Julia">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/deno.svg" width="24px" alt="Deno">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/nativescript.svg" width="24px" alt="NativeScript">
     <img src="https://github.com/limistah/limistah/blob/master/assets/prometheus.svg" width="24px" alt="Prometheus">
   </li>
   <li>
@@ -66,12 +61,8 @@ You can find me on:
     💬 Ask me about anything, I'd love to help.
     <!-- Especially Vue.js, Software Architecture, Gridsome, Speedcubing, application type decision -->
   </li>
-  <!-- <li>
-    📝 I often write articles on <a href="https://medium.com/@B.Max">https://medium.com/@B.Max</a>
-  </li> -->
-  <li>⚡ Fun fact: <strong>I have more hobby experience over commercial experience</strong></li>
+  
 </ul>
-<!-- - 🔭 I'm currently working on [MBerkmann](https://github.com/limistah/mberkmann) -->
 
 ### Typical tech stacks
 
@@ -90,9 +81,9 @@ You can find me on:
 
 - <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
 
-- <img src="https://github.com/limistah/limistah/blob/master/assets/laravel.svg" width="24px" alt="Laravel">
+- <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
 
--
+
 
 ### Others
 
