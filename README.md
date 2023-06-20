@@ -32,20 +32,12 @@ You can find me on:
     <img src="https://github.com/limistah/limistah/blob/master/assets/github.svg" width="24px" alt="Github">
     <img src="https://github.com/limistah/limistah/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
     <img src="https://github.com/limistah/limistah/blob/master/assets/confluence.svg" width="24px" alt="Confluence">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/jirasoftware.svg" width="24px" alt="Jira Software">
   </li>
   <li>
     🌱 I'm currently learning:<br>
     <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
     <img src="https://github.com/limistah/limistah/blob/master/assets/docker.svg" width="24px" alt="Docker">
     <img src="https://github.com/limistah/limistah/blob/master/assets/kubernetes.svg" width="24px" alt="K8s">
-  </li>
-  <li>
-    🌱 I plan on learning:<br>
-    <img src="https://github.com/limistah/limistah/blob/master/assets/ansible.svg" width="24px" alt="Ansible">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/rust.svg" width="24px" alt="Rust">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/julia.svg" width="24px" alt="Julia">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/prometheus.svg" width="24px" alt="Prometheus">
   </li>
   <li>
     🖊️ I publish at:
@@ -59,7 +51,6 @@ You can find me on:
   </li>
   <li>
     💬 Ask me about anything, I'd love to help.
-    <!-- Especially Vue.js, Software Architecture, Gridsome, Speedcubing, application type decision -->
   </li>
   
 </ul>
