@@ -65,45 +65,22 @@ You can find me on:
 </ul>
 
 ### Typical tech stacks
-
-#### Frontend
-
-- <img src="https://github.com/limistah/limistah/blob/master/assets/javascript.svg" width="24px" alt="JS"> <img src="https://github.com/limistah/limistah/blob/master/assets/typescript.svg" width="24px" alt="TS">
-
-- <img src="https://github.com/limistah/limistah/blob/master/assets/react.svg" width="24px" alt="ReactJS"> <img src="https://github.com/limistah/limistah/blob/master/assets/vue-dot-js.svg" width="24px" alt="Vue"> <img src="https://github.com/limistah/limistah/blob/master/assets/gatsby.svg" width="24px" alt="Gatsby"> <img src="https://github.com/limistah/limistah/blob/master/assets/next-dot-js.svg" width="24px" alt="NextJS">
-
-- <img src="https://github.com/limistah/limistah/blob/master/assets/sass.svg" width="24px" alt="SCSS">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/limistah/limistah/blob/master/assets/css3.svg" width="24px" alt="CSS3">
-
-### Backend
-
-- <img src="https://github.com/limistah/limistah/blob/master/assets/node-dot-js.svg" width="24px" alt="Node.js"> <img src="https://github.com/limistah/limistah/blob/master/assets/express.svg" width="24px" alt="Express.js">
-
-- <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
-
-- <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
-
-
-
-### Others
-
-- <img src="https://github.com/limistah/limistah/blob/master/assets/gnubash.svg" width="24px" alt="Bash">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/markdown.svg" width="24px" alt="Markdown">
-
-### Tools
-
-- <img src="https://github.com/limistah/limistah/blob/master/assets/netlify.svg" width="24px" alt="Netlify"> <img src="https://github.com/limistah/limistah/blob/master/assets/heroku.svg" width="24px" alt="Heroku"> <img src="https://github.com/limistah/limistah/blob/master/assets/aws.svg" width="24px" alt="AWS"> <img src="https://github.com/limistah/limistah/blob/master/assets/aws.svg" width="24px" alt="AWS"> <img src="https://github.com/limistah/limistah/blob/master/assets/googlecloud.svg" width="24px" alt="Google Cloud">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/visualstudiocode.svg" width="24px" alt="VSCode"> <img src="https://github.com/limistah/limistah/blob/master/assets/vim.svg" width="24px" alt="Vim"> <img src="https://github.com/limistah/limistah/blob/master/assets/jetbrains.svg" width="24px" alt="Jetbrains">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/github.svg" width="24px" alt="GitHub"> <img src="https://github.com/limistah/limistah/blob/master/assets/googledrive.svg" width="24px" alt="Google Drive">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/git.svg" width="24px" alt="Git"> <img src="https://github.com/limistah/limistah/blob/master/assets/gitkraken.svg" width="24px" alt="GitKraken">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/slack.svg" width="24px" alt="Slack">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/trello.svg" width="24px" alt="Trello"> <img src="https://github.com/limistah/limistah/blob/master/assets/jirasoftware.svg" width="24px" alt="Jira Software"> <img src="https://github.com/limistah/limistah/blob/master/assets/azuredevops.svg" width="24px" alt="Azure Devops">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/npm.svg" width="24px" alt="NPM"> <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
-
-### OS
-
-- <img src="https://github.com/limistah/limistah/blob/master/assets/macos.svg" width="24px" alt="macOS">
-- <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TS" **alt="TS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  title="Bash" **alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" title="lua" **alt="lua" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="matlab" **alt="matlab" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
+</div>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=limistah&show_icons=true&hide_border=true&theme=tokyonight)
 
