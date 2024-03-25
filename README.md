@@ -1,9 +1,6 @@
+<img src="https://gist.githubusercontent.com/wuhan005/b3fc9288b77106605d3b6fde855d1735/raw/f7cb231595adff68a2808c82132751b535632538/%25E2%259D%25A4%25EF%25B8%258FGopher.GIF" alt="Gopher GIF" align="right" width="235">
 
 # Limistah [ Aleem, Isiaka - (AI) ]
-
-I'm a full-time software Engineer interested in Web Technologies, CLI/Network tools, and Cloud Infrastructures.
-
-You can find me on:
 
 <p>
   <a href="https://twitter.com/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/twitter.svg" width="24px" alt="Twitter"></a>
@@ -14,33 +11,16 @@ You can find me on:
   <a href="https://hashnode.com/@limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/hashnode.svg" width="24px" alt="Hashnode"></a>
   <a href="https://profile.codersrank.io/user/limistah/"><img src="https://github.com/limistah/limistah/blob/master/assets/codersrank.svg" width="24px" alt="CodersRank"></a>
   <a href="https://www.youtube.com/channel/UCF8KzEYd35lyB8tGluQ6YFg?view_as=subscriber"><img src="https://github.com/limistah/limistah/blob/master/assets/youtube.svg" width="24px" alt="YouTube"></a>
-  <a href="https://medium.com/@B.Max"><img src="https://github.com/limistah/limistah/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
+  <a href="https://medium.com/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
 </p>
+
+**I'm a full-time software Engineer interested in Web Technologies, CLI/Network tools, and Cloud Infrastructures.**
 
 ## A bit more about me
 
 <ul>
   <li>Fluent in 🇬🇧.</li>
-  <li>
-    👨‍💻 I'm getting my hands dirty with:<br>
-    <img src="https://github.com/limistah/limistah/blob/master/assets/node-dot-js.svg" width="24px" alt="NodeJS">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/aws.svg" width="24px" alt="AWS">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/googlecloud.svg" width="24px" alt="Google Cloud">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/github.svg" width="24px" alt="Github">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/confluence.svg" width="24px" alt="Confluence">
-  </li>
-  <li>
-    🌱 I'm currently learning:<br>
-    <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/docker.svg" width="24px" alt="Docker">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/kubernetes.svg" width="24px" alt="K8s">
-  </li>
-  <li>
-    🖊️ I publish at:
+  <li>🖊️ I publish at:
     <img src="https://github.com/limistah/limistah/blob/master/assets/smashingmagazine.svg" width="24px" alt="SmashingMagazine"> <a href="https://aleemisiaka.com">📝</a>
   </li>
   <li>
@@ -50,28 +30,18 @@ You can find me on:
     🤝 I'm looking for help with <a href="https://github.com/limistah/react-here-map">`react-here-map`</a> and <a href="https://github.com/limistah/react-video-trimmer">`react-video-trimmer`</a>.
   </li>
   <li>
-    💬 Ask me about anything, I'd love to help.
+    💬 <a href="mailto:aleemisiaka@gmail.com">Ask me about anything</a>, I'd love to help.
   </li>
-  
 </ul>
 
-### Typical tech stacks
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TS" **alt="TS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  title="Bash" **alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" title="lua" **alt="lua" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="matlab" **alt="matlab" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
-</div>
+
+### Programming Languages
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,golang,c,cpp,ruby,python" /></a>
+### DevOps
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,prometheus,grafana,git,github,bash" /></a><img src="https://github.com/jaegertracing/artwork/blob/master/PNG/Jaeger_Logo_Final_PANTONE%20REVERSE.png" alt="jaeger" width="50">
+### Web
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,wasm" /><img src="https://github.com/gin-gonic/logo/blob/master/color.png" alt="Gin-Gonic Logo" width="42"></a>
+
 
 
 ## Stats
