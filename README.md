@@ -1,7 +1,7 @@
 
 # Limistah [ Aleem, Isiaka - (AI) ]
 
-I'm a full-time software Engineer interested in web apps, CLI/Network tools, and Cloud infrastructures.
+I'm a full-time software Engineer interested in Web Technologies, CLI/Network tools, and Cloud Infrastructures.
 
 You can find me on:
 
@@ -26,6 +26,7 @@ You can find me on:
     <img src="https://github.com/limistah/limistah/blob/master/assets/node-dot-js.svg" width="24px" alt="NodeJS">
     <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
     <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
+    <img src="https://github.com/limistah/limistah/blob/master/assets/ruby.svg" width="24px" alt="Ruby">
     <img src="https://github.com/limistah/limistah/blob/master/assets/go.svg" width="24px" alt="Go">
     <img src="https://github.com/limistah/limistah/blob/master/assets/aws.svg" width="24px" alt="AWS">
     <img src="https://github.com/limistah/limistah/blob/master/assets/googlecloud.svg" width="24px" alt="Google Cloud">
