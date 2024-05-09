@@ -27,7 +27,7 @@
     👯 I'm looking to collaborate on <a href="https://github.com/objectspread">ObjectSpread</a>
   </li>
   <li>
-    🤝 I'm looking for help with <a href="https://github.com/limistah/react-here-map">`react-here-map`</a> and <a href="https://github.com/limistah/react-video-trimmer">`react-video-trimmer`</a>.
+    🤝 Collaborate with me on <a href="https://github.com/limistah/react-here-map">`react-here-map`</a> and <a href="https://github.com/objectspread/go-raft">`go-raft`</a>.
   </li>
   <li>
     💬 <a href="mailto:aleemisiaka@gmail.com">Ask me about anything</a>, I'd love to help.
