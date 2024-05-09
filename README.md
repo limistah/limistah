@@ -14,7 +14,7 @@
   <a href="https://medium.com/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
 </p>
 
-**I'm a full-time software Engineer interested in Web Technologies, CLI/Network tools, and Cloud Infrastructures.**
+**Full-time Software Engineer meddling with Web Technologies, CLI/Networking tools, and Cloud Infrastructures.**
 
 ## A bit more about me
 
