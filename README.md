@@ -2,7 +2,7 @@
 
 # Limistah [ Aleem, Isiaka - (AI) ]
 
-**Full-time Software Engineer meddling with Web Technologies, CLI/Networking tools, and Cloud Infrastructures.**
+**Software Engineer meddling with Web Technologies, CLI/Networking tools, and Cloud Infrastructures.**
 
 
 
