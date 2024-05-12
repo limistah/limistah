@@ -39,16 +39,3 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,prometheus,grafana,git,github,bash" /></a><img src="https://github.com/jaegertracing/artwork/blob/master/PNG/Jaeger_Logo_Final_PANTONE%20REVERSE.png" alt="jaeger" width="50">
 ### Web
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,wasm" /><img src="https://github.com/gin-gonic/logo/blob/master/color.png" alt="Gin-Gonic Logo" width="42"></a>
-
-
-
-## Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=limistah&show_icons=true&hide_border=true&theme=tokyonight)
-
-### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limistah)](https://github.com/anuraghazra/github-readme-stats)
-
-![Limistah's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=limistah&width=820&tooltip=true&active-skills="HTML,%20CSS,%20JSON,%20JavaScript,%20Python,%20SCSS,%20Shell,%20TypeScript,%20Vue,%20Jupyter%20Notebook,%20Dockerfile,%20Batchfile,%20C#,%20Java,Dart")
-
-<!-- https://docs.codersrank.io/widgets/skills-chart-widget/ -->
-![Limistah's CR ranks](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=limistah&show-avatar=false)
