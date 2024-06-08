@@ -35,7 +35,5 @@
 
 ### Programming Languages
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,golang,python,ruby,java" /></a>
-### DevOps
+### DevOps/SRE
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,prometheus,grafana,git,github,bash" /></a><img src="https://github.com/jaegertracing/artwork/blob/master/PNG/Jaeger_Logo_Final_PANTONE%20REVERSE.png" alt="jaeger" width="50">
-### Web
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,wasm" /><img src="https://github.com/gin-gonic/logo/blob/master/color.png" alt="Gin-Gonic Logo" width="42"></a>
