@@ -2,25 +2,20 @@
 
 # Limistah [ Aleem, Isiaka - (AI) ]
 
-**Software Engineer meddling with Web Technologies, CLI/Networking tools, and Cloud Infrastructures.**
-
-
-
-## A bit more about me
 
 <ul>
   <li>Fluent in 🇬🇧.</li>
-  <li>🖊️ I publish at:
+  <li>I publish at:
     <img src="https://github.com/limistah/limistah/blob/master/assets/smashingmagazine.svg" width="24px" alt="SmashingMagazine"> <a href="https://aleemisiaka.com">📝</a>
   </li>
   <li>
-    👯 I'm looking to collaborate on <a href="https://github.com/objectspread">ObjectSpread</a>
+    I'm looking to collaborate on <a href="https://github.com/objectspread">ObjectSpread</a>
   </li>
   <li>
-    🤝 Collaborate with me on <a href="https://github.com/limistah/react-here-map">react-here-map</a> and <a href="https://github.com/objectspread/go-raft">go-raft</a>.
+    Collaborate with me on <a href="https://github.com/limistah/react-here-map">react-here-map</a> and <a href="https://github.com/objectspread/go-raft">go-raft</a>.
   </li>
   <li>
-    💬 <a href="mailto:aleemisiaka@gmail.com">Ask me about anything</a>, I'd love to help.
+    <a href="mailto:aleemisiaka@gmail.com">Ask me about anything</a>, I'd love to help.
   </li>
   <li>
     <p>
