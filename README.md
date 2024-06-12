@@ -21,8 +21,7 @@
     <p>
       <a href="https://twitter.com/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/twitter.svg" width="24px" alt="Twitter"></a>
       <a href="https://www.linkedin.com/in/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/linkedin.svg" width="24px" alt="Linkedin"></a>
-      <a href="https://www.youtube.com/channel/UCF8KzEYd35lyB8tGluQ6YFg?view_as=subscriber"><img src="https://github.com/limistah/limistah/blob/master/assets/youtube.svg" width="24px" alt="YouTube"></a>
-      <a href="https://medium.com/limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
+      <a href="https://medium.com/@limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
     </p>
   </li>
 </ul>
