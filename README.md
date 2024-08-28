@@ -2,6 +2,7 @@
 
 # Limistah [ Aleem, Isiaka - (AI) ]
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=limistah&label=Profile%20views&color=0e75b6&style=flat" alt="limistah" /> </p>
 
 <ul>
   <li>Fluent in 🇬🇧.</li>
