@@ -25,6 +25,9 @@
       <a href="https://medium.com/@limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
     </p>
   </li>
+  <li>
+    <section style="padding: 1rem; width: 100%; max-width: 380px; min-height: 350px;"><img alt="Impact swag image" class="" src="https://hcti.io/v1/image/c5519c32-17f4-4818-9eb8-5fe72f8e1fd9" height="100%" width="100%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
+  </li>
 </ul>
 
 
