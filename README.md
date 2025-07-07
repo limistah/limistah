@@ -25,13 +25,11 @@
       <a href="https://medium.com/@limistah"><img src="https://github.com/limistah/limistah/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
     </p>
   </li>
-  <li>
-    <section style="padding: 1rem; width: 100%; max-width: 380px; min-height: 350px;"><img alt="Impact swag image" class="" src="https://hcti.io/v1/image/c5519c32-17f4-4818-9eb8-5fe72f8e1fd9" height="100%" width="100%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
-  </li>
 </ul>
 
+<section style="padding: 1rem; width: 100%; max-width: 380px; min-height: 350px;"><img alt="Impact swag image" class="" src="https://hcti.io/v1/image/c5519c32-17f4-4818-9eb8-5fe72f8e1fd9" height="100%" width="100%" style="background-color: rgb(225, 49, 108); border-radius: 14px;"></section>
 
 ### Programming Languages
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,golang,python,ruby,java" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,golang,rust,python,ruby,java,c,cpp" /></a>
 ### DevOps/SRE
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,aws,gcp,prometheus,grafana,git,github,bash" /></a><img src="https://github.com/jaegertracing/artwork/blob/master/PNG/Jaeger_Logo_Final_PANTONE%20REVERSE.png" alt="jaeger" width="50">
